@@ -1,4 +1,4 @@
-# Ảnh minh họa chạy thành công
+# Ảnh minh họa giao diện
 ##### Giao diện chính
 ![image](https://user-images.githubusercontent.com/86406337/156009764-e346163e-0c9f-409c-95ab-1a81527db050.png)
 #  _________________
